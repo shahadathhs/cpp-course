@@ -1,0 +1,17 @@
+# Compiled binaries
+tmp/
+*.exe
+*.out
+*.o
+*.obj
+
+# Backup files from editors
+*~
+*.swp
+*.swo
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
