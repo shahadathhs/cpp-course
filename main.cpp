@@ -6,7 +6,8 @@ using namespace std;
 // #include "intro/comments.cpp" 
 // #include "intro/variables.cpp"
 // #include "intro/cin_cout.cpp"
-#include "intro/data_types.cpp"
+// #include "intro/data_types.cpp"
+#include "intro/operators.cpp"
 
 int main() {
     cout << "Welcome to the C++ Course" << endl;
@@ -16,7 +17,8 @@ int main() {
     // comments();
     // variables();
     // cinCout();
-    dataTypes();
+    // dataTypes();
+    operators();
 
     return 0;
 }
